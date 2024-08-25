@@ -1,2 +1,2 @@
 # Address-Extraction
-A project made for the Deeptech Engineer Intern position at Veridion
+Web scrapper for addresses of some pages using python libraries beautifulsoup, geopy
